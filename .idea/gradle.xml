@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ApiGateway" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/ApiGateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AppManager" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/AppManager" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/EurekaServer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/EurekaServer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/FrontUI" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/FrontUI" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/MemorizationBookService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/MemorizationBookService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/NoteBookService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/NoteBookService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SearchService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SearchService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringConfigServer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringConfigServer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/UserService" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/UserService" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
